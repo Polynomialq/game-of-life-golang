@@ -1,1 +1,1 @@
-# golang-game-of-life
+# Игра "Жизнь" на языке Golang
